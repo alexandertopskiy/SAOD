@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/macOS/учеба/KAI/2 курс/САОД/Лабы SAOD/Lab11/main.cpp
+iostream
+-
+cstdlib
+-
+

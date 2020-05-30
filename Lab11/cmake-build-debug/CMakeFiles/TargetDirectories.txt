@@ -1,0 +1,3 @@
+/macOS/учеба/KAI/2 курс/САОД/Лабы SAOD/Lab11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/macOS/учеба/KAI/2 курс/САОД/Лабы SAOD/Lab11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/macOS/учеба/KAI/2 курс/САОД/Лабы SAOD/Lab11/cmake-build-debug/CMakeFiles/Lab11.dir
